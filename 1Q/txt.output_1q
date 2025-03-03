@@ -1,0 +1,39 @@
+Time : Mon 03 Mar 2025 17:20:52 IST
+USER DETAILS: tomer:x:1001:1001:Tomer,,,:/home/tomer:/bin/bash
+REPO: /home/tomer/Work_Course_Linux
+BRANCH: question_1
+VERSIONID: 20.04
+-------------------------------------------
+.:
+1Q
+CODE
+DATA
+DOWNLOADS
+
+./1Q:
+txt.output_1q
+
+./CODE:
+plant.py
+py1.py
+
+./DATA:
+FIle_1.txt
+File_2.txt
+img1.jpg
+img2.jpg
+img3.jpg
+plants.csv
+
+./DOWNLOADS:
+LINUX_COURSE_WORK-downloads
+
+./DOWNLOADS/LINUX_COURSE_WORK-downloads:
+FIle_1.txt
+File_2.txt
+img1.jpg
+img2.jpg
+img3.jpg
+plant.py
+plants.csv
+py1.py
