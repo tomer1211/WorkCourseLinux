@@ -1,0 +1,15 @@
+Created CSV file: q_5.1 with header.
+Index: 0 => Date collected,Species,Sex,Weight
+Added row: 1/8,PF,M,7
+Added row: 2/18,OT,M,24
+Added row: 2/19,OT,F,23
+Added row: 3/11,NA,M,232
+Added row: 3/11,OT,F,22
+Added row: 3/11,PF,M,8
+Added row: 3/11,OT,M,26
+Added row: 4/8,NA,F,8
+Added row: 5/6,NA,F,182
+Added row: 5/6,NA',F,45
+Added row: 5/18,NA,F,182
+Added row: 6/9,OT,F,29
+Exiting Q5 script.
