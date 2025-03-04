@@ -1,7 +1,7 @@
 import numpy as np
 
 # Create an array using numpy
-arr = np.array([1, 2, 3, 4, 5])
+arr = np.array([21,2,45,64,34])
 
 # Compute the mean of the array
 mean_value = np.mean(arr)
