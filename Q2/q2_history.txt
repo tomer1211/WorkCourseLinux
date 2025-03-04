@@ -1,0 +1,11 @@
+    1  mkdir Q2_ENV
+    2  mv Q2_ENV ~/Desktop/
+    3  python3 -m venv Q2_ENV/venv
+    4  source Q2_ENV/venv/bin/activate
+    5  pip install numpy
+    6  pip freeze > Q2_ENV/requirements.txt
+    7  mkdir Q2
+    8  cp CODE/py1.py Q2/
+    9  chmod u+rx Q2/py1.py
+   10  python3 Q2/py1.py > Q2/q2_output.txt
+   11  history > Q2/q2_history.txt
